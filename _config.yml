@@ -1,7 +1,7 @@
 name: hoist
 favicon: null
 layout_spectrum: 0.368458115728572
-typography_spectrum: 0.8128874399699271
+typography_spectrum: 0.33904
 title: 'hoist!'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8858316165860742
+    - '#ffffff'
+    - '#8c8c8c'
+    - '#a9a9a9'
+    - '#0f0f0f'
+    - '#4d4d4d'
+  brandStrength: 0.875
   lightness: 0.7877509274985641
   saturation: 0.8071918559726328
   rhythmicContrast: 0.0014440526720136404
