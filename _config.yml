@@ -2,6 +2,7 @@ name: hoist
 favicon: null
 layout_spectrum: 0.368458115728572
 typography_spectrum: 0.8128874399699271
+title: 'hoist!'
 cta:
   domain: null
   bucket: null
